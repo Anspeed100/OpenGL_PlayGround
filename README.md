@@ -1,2 +1,2 @@
 # OpenGL_PlayGround
-My OpenGL Playground 
+A grapphics playground built on OpenGL 
